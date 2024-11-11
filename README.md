@@ -10,7 +10,7 @@ The project provides an interactive dashboard to analyze tourism trends across v
 2. Tourist Trend Dataset (included in the repository)
 
 # Snapshots:
-![image](https://github.com/user-attachments/assets/3da84672-50dd-4bb2-8588-f5d794a72cf1)
+![image](https://github.com/user-attachments/assets/884d206c-c680-4720-ae29-d11c7fefb0ee)
 <br><br>
 ![image](https://github.com/user-attachments/assets/e2a6ad6b-9e1e-4619-a86c-94fa56b33794)
 
