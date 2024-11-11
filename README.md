@@ -11,7 +11,7 @@ The project provides an interactive dashboard to analyze tourism trends across v
 
 # Snapshots:
 ![image](https://github.com/user-attachments/assets/884d206c-c680-4720-ae29-d11c7fefb0ee)
-<br><br>
+<br>
 ![image](https://github.com/user-attachments/assets/e2a6ad6b-9e1e-4619-a86c-94fa56b33794)
 
 
