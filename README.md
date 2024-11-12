@@ -9,6 +9,16 @@ The project provides an interactive dashboard to analyze tourism trends across v
 1. Power BI Desktop
 2. Tourist Trend Dataset (included in the repository)
 
+# Questions:
+1.  What are the top 2 destinations by annual visitor?
+2.  Which countries receive the highest visitor ratings on average?
+3. What is the average travel cost by season?
+4. Which countries have the most diverse local cuisines according to this dataset?
+5. What is the relationship between annual visitors and average cost?
+6. What are the most common transportation options available at top tourist destinations?
+7. What is the average of Annual visitors by country and destination?
+8. What is the Percentage of annual visitors by attraction?
+
 # Snapshots:
 ![image](https://github.com/user-attachments/assets/884d206c-c680-4720-ae29-d11c7fefb0ee)
 ![image](https://github.com/user-attachments/assets/e2a6ad6b-9e1e-4619-a86c-94fa56b33794)
